@@ -1,0 +1,52 @@
+.container-hp{
+	width: 375px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*button admin 1 & 2*/
+.button-admin a:hover{
+	background-color: #b29cdc;
+}
+/*button admin 1 & 2*/
+
+
+
+
+.eclipse{
+	width: 353px;
+	height: 300px;
+	background-color: #b29cdc;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 0 0 45% 45%;
+	position: relative;
+
+}
+
+.orang img{
+	width: 100px;
+			
+}
+
+.orang{
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	top: 150px;
+}
+
+/*nama*/
+.orang #customer-name{
+	font-size: 1.3em;
+}
+
+#customer-title a{
+	text-decoration: none;
+	color: white;
+	font-size: 0.7em;
+}
+
+#customer-title{
+	margin-top: -0.9em;
+}
